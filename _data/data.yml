@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,9 +14,16 @@ sidebar:
     # Sidebar links
     email: gyu511@postech.ac.kr
     phone: 010 9368 0405
+    website: 
+    linkedin:
     github: gyu511
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
     
-
     languages:
       - idiom: Korean
         level: Native
@@ -26,40 +33,54 @@ sidebar:
 
     interests:
       - item: music
-        
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Donggyu Kim received the B.S. degree in Electrical Engineering Kyungpook National University, Daegu, Republic of Korea, in 2023.
+      <strong>Donggyu Kim</strong> received the B.S. degree in Electronics Engineering
+      from Kyungpook National University, Daegu, Republic of Korea, in 2023.
       He is currently the M.S. candidate in electrical engineering in 2023 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea.
-      He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab(CSDL).
+      He is working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr) (CSDL)
 education:
     - degree: M.Sc in Electrical Engineering
-      university: Pohang University of Science and Technology, Republic of Korea
-      time: 2023 - Present
-      
-      
+      university: Pohang University of Science and Technology, Pohang, Republic of Korea 
+      time: 2023 - Present 
+      details: | 
+          - Advisor: Prof. Seokhyeong Kang 
+          
     - degree: B.Sc in Electronics Engineering
-      university: Kyungpook National University, Daegu, Republic of Korea
+      university: Kyungpook National University, Daegu, Republic of Korea 
       time: 2021 - 2023
       
-
-experiences:
-    - role: Undergraduate Student Researcher
+experiences:      
+    - role: Undergraduate Student Researcher 
       time: 2021 - 2022
       company: Mobile SoC & Microprocessor Lab in KNU, Prof. Joonho Kong
-     
+      details: 
 
+awards:
+    title: Awards
+    papers:
+      - title: First place in 2021 MathWorks Korea MATLAB Cody Challenge, 2021
+        authors: First Finisher & Top Scorer
+        conference: Organized by MathWorks Korea
+      
+      - title: Community choice award in Qiskit Hackathon Korea 2021, 2021
+        authors: Team Quanputing - Jaehoon Hahm, <strong>Dohun Kim</strong>, Yunseo Kim, Daeheon Yoon, Eunchan Lee, Yoon Kwon
+        conference: Organized by IBM Quantum
+  
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
+    toolset:        
       - name: C & C++
         level: 50%
-
+      
       - name: Verilog
         level: 50%
+        
+        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
