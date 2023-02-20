@@ -26,7 +26,7 @@ sidebar:
 
     interests:
       - item: music
-        link: "#"
+        
 
 career-profile:
     title: Career Profile
@@ -38,18 +38,18 @@ education:
     - degree: M.Sc in Electrical Engineering
       university: Pohang University of Science and Technology, Republic of Korea
       time: 2023 - Present
-      details: "#"
+      
       
     - degree: B.Sc in Electronics Engineering
       university: Kyungpook National University, Daegu, Republic of Korea
       time: 2021 - 2023
-      details: "#"
+      
 
 experiences:
     - role: Undergraduate Student Researcher
       time: 2021 - 2022
       company: Mobile SoC & Microprocessor Lab in KNU, Prof. Joonho Kong
-      details: "#"
+     
 
 skills:
     title: Skills &amp; Proficiency
