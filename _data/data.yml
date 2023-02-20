@@ -14,39 +14,19 @@ sidebar:
     # Sidebar links
     email: gyu511@postech.ac.kr
     phone: 010 9368 0405
-    citizenship:
-    website: 
-    linkedin: 
-    xing: 
     github: gyu511
-    telegram:
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    
 
     languages:
       - idiom: Korean
         level: Native
 
       - idiom: English
-        level: 
-        
-      - idiom:
-        level: 
+        level: Elementary
 
     interests:
-      - item: 
-        link:
-
-      - item: 
-        link:
-
-      - item: 
-        link:
+      - item: music
+        link: "#"
 
 career-profile:
     title: Career Profile
@@ -57,96 +37,29 @@ career-profile:
 education:
     - degree: M.Sc in Electrical Engineering
       university: Pohang University of Science and Technology, Republic of Korea
-      time: 2023 -
-      details:
+      time: 2023 - Present
+      details: "#"
       
     - degree: B.Sc in Electronics Engineering
       university: Kyungpook National University, Daegu, Republic of Korea
-      time: 2023
-      details:
+      time: 2021 - 2023
+      details: "#"
 
 experiences:
     - role: Undergraduate Student Researcher
-      time: 2022
+      time: 2021 - 2022
       company: Mobile SoC & Microprocessor Lab in KNU, Prof. Joonho Kong
-      details: 
-      
-    - role:
-      time:
-      company:
-      details:
-      
-    - role:
-      time:
-      company:
-      details:
-      
-projects:
-    title: 
-    intro:
-    
-    assignments:
-      - title:
-        link:
-        tagline:
-
-      - title:
-        link:
-        tagline:
-
-      - title:
-        link:
-        tagline:
-
-      - title:
-        link:
-        tagline:
-
-      - title:
-        link:
-        tagline:
-
-publications:
-    title:
-    intro:
-      
-    papers:
-      - title:
-        link:
-        authors:
-        conference:
-
-      - title:
-        link:
-        authors:
-        conference:
-
-      - title:
-        link:
-        authors:
-        conference:
+      details: "#"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: C & C++
-        level: 
+        level: 50%
 
       - name: Verilog
-        level:
-
-      - name:
-        level:
-
-      - name:
-        level:
-
-      - name:
-        level:
-
-      - name:
-        level:
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
