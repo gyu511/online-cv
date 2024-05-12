@@ -37,12 +37,12 @@ career-profile:
       He is working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr) (CSDL)
 education:
     - degree: M.Sc in Electrical Engineering
-      university: Pohang University of Science and Technology, Republic of Korea
+      university: Pohang University of Science and Technology (POSTECH), Republic of Korea
       time: 2023 - Present
       details:
       
     - degree: B.Sc in Electronics Engineering
-      university: Kyungpook National University, Daegu, Republic of Korea
+      university: Kyungpook National University (KNU), Daegu, Republic of Korea
       time: 2023.02
       details:
 
@@ -51,7 +51,6 @@ experiences:
       time: 2022
       company: Kyungpook National University (KNU)
       details: Mobile SoC & Microprocessor Lab, Prof. Joonho Kong
-
     - role: Teaching Assistant (TA)
       time: 2023 - Present
       company: Pohang University of Science and Technology (POSTECH)
