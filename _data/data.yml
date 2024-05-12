@@ -39,32 +39,33 @@ education:
     - degree: M.Sc in Electrical Engineering
       university: Pohang University of Science and Technology (POSTECH), Republic of Korea
       time: 2023 - Present
-      details:
+      details: |
       
     - degree: B.Sc in Electronics Engineering
       university: Kyungpook National University (KNU), Daegu, Republic of Korea
       time: 2023.02
-      details:
+      details: |
 
 experiences:
     - role: Undergraduate Student Researcher
       time: 2022
       company: Kyungpook National University (KNU)
-      details: |
-      Mobile SoC & Microprocessor Lab, Prof. Joonho Kong
+      details: |+
+                -- Mobile SoC & Microprocessor Lab, Prof. Joonho Kong
 
     - role: Teaching Assistant (TA)
       time: 2023 - Present
       company: Pohang University of Science and Technology (POSTECH)
-      details: |
-      [EECE273] Digital system design (2023)
+      details: |+
+                -- [EECE273] Digital system design (2023)
 
 publications:
     title: Publications
+    intro: |
     papers:
-        - title: Advanced Parasitic Capacitance Extraction using Active Learning, ISOCC, 2023
-        authors: D. Kim, J. Lee, and S. Kang
-        conference:
+        - title: Advanced Parasitic Capacitance Extraction using Active Learning
+          authors: D. Kim, J. Lee, and S. Kang
+          conference: ISOCC, 2023
 
 skills:
     title: Skills &amp; Proficiency
