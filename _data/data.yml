@@ -50,13 +50,14 @@ experiences:
     - role: Undergraduate Student Researcher
       time: 2022
       company: Kyungpook National University (KNU)
-      details: Mobile SoC & Microprocessor Lab, Prof. Joonho Kong
+      details: |
+      Mobile SoC & Microprocessor Lab, Prof. Joonho Kong
 
-    - role: Undergraduate Student Researcher
-#    - role: Teaching Assistant (TA)
+    - role: Teaching Assistant (TA)
       time: 2023 - Present
       company: Pohang University of Science and Technology (POSTECH)
-      details: [EECE273] Digital system design (2023)
+      details: |
+      [EECE273] Digital system design (2023)
 
 publications:
     title: Publications
