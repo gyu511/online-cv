@@ -54,15 +54,10 @@ experiences:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: Advanced Parasitic Capacitance Extraction using Active Learning
-        link: "#"
         authors: D. Kim, J. Lee, and S. Kang
-        conference: ISOCC
+        conference: ISOCC, 2023
 
 skills:
     title: Skills &amp; Proficiency
