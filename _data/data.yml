@@ -26,7 +26,7 @@ sidebar:
         level: Elementary
 
     interests:
-      - item: music
+      - item: AI-EDA
         link:
 
 career-profile:
@@ -56,10 +56,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Python
+        level: 50%
+    
       - name: C & C++
         level: 50%
 
       - name: Verilog
+        level: 50%
+        
+      - name: EDA Tool
         level: 50%
 
 footer: >
