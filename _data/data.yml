@@ -53,15 +53,16 @@ experiences:
       details:
 
     - role: Teaching Assistant (TA)
+      time: 2023 - 2024
       company: Pohang University of Science and Technology (POSTECH)
       details: [EECE273] Digital system design (2023)
 
 publications:
     title: Publications
     papers:
-      - title: Advanced Parasitic Capacitance Extraction using Active Learning, ISOCC, 2023
-        authors:     D. Kim, J. Lee, and S. Kang
-        #conference:
+    title: Advanced Parasitic Capacitance Extraction using Active Learning, ISOCC, 2023
+    authors:     D. Kim, J. Lee, and S. Kang
+    conference:
 
 skills:
     title: Skills &amp; Proficiency
