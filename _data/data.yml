@@ -68,6 +68,20 @@ publications:
           conference: ISOCC, 2023
 
 skills:
+    title: Skills &amp; Proficiency
+    toolset:
+      - name: Python
+        level: 50%
+    
+      - name: C & C++
+        level: 50%
+      - name: Verilog
+        level: 50%
+        
+      - name: EDA Tool
+        level: 50%
+
+skills:
     title: Skills
 
     papers:
