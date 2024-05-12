@@ -63,25 +63,24 @@ publications:
     title: Publications
     intro: |
     papers:
-        - title: Advanced Parasitic Capacitance Extraction using Active Learning
-          authors: D. Kim, J. Lee, and S. Kang
+        - title: "Advanced Parasitic Capacitance Extraction using Active Learning"
+          authors: <strong>D. Kim</strong>, J. Lee, and S. Kang
           conference: ISOCC, 2023
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
+    intro: |
 
-    toolset:
-      - name: Python
-        level: 50%
-    
-      - name: C & C++
-        level: 50%
-
-      - name: Verilog
-        level: 50%
+    papers:
+        - title: Programming Language
+          conference: ― C/C++, Python, Tcl, Verilog
         
-      - name: EDA Tool
-        level: 50%
+        - title: Electronic Design Automation (EDA) Tools
+          authors: <strong>CADENCE</strong>
+          conference: ― Innovus, Virtuoso, Quantus, Genus, Xcelium, NC Verilog
+        - title:
+          authors: <strong>SYNOPSYS</strong>
+          conference: ― Design Compiler, IC Compiler II, StarRC, PrimeTime, Hspice
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
