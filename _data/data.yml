@@ -63,7 +63,7 @@ publications:
     title: Publications
     #intro: |
     papers:
-        - title: "Advanced Parasitic Capacitance Extraction using Active Learning" , ISOCC, 2023
+        - title: Advanced Parasitic Capacitance Extraction using Active Learning, ISOCC, 2023
           authors: <strong>D. Kim</strong>, J. Lee, and S. Kang
           #conference: ISOCC, 2023
 
