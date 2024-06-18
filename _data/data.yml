@@ -53,6 +53,12 @@ experiences:
       details: |+
                 -- Mobile SoC & Microprocessor Lab, Prof. Joonho Kong
 
+    - role: Internship
+      time: 2024.06 - 2024.07
+      company: hearDL
+      details: |+
+                -- Development of Smartphone Beamforming Application
+
     - role: Teaching Assistant (TA)
       time: 2023 - Present
       company: Pohang University of Science and Technology (POSTECH)
