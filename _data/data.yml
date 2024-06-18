@@ -85,11 +85,15 @@ skills:
     
       - name: C & C++
         level: 50%
+        
       - name: Verilog
-        level: 50%
+        level: 70%
         
       - name: EDA Tool
-        level: 50%
+        level: 70%
+
+      - name: Dart
+        level: 30%        
 
 # skills:
 #     title: Skills
