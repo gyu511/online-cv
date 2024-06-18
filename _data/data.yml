@@ -77,6 +77,14 @@ publications:
           authors: "   <strong>D. Kim</strong>, J. Lee, and S. Kang"
           # conference: "   ISOCC, 2023"
 
+projects:
+    title: Award
+   
+    assignments:
+      - title: Best Poster Award in ISOCC
+        link: "#hook"
+        tagline: "2023"
+
 skills:
     title: Skills &amp; Proficiency
     toolset:
