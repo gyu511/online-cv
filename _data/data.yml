@@ -97,10 +97,7 @@ skills:
         level: 70%
         
       - name: EDA Tool Script
-        level: 70%
-
-      # - name: Dart
-      #   level: 30%        
+        level: 70%   
 
 # skills:
 #     title: Skills
