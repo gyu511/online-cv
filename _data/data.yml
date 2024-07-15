@@ -53,11 +53,9 @@ experiences:
   - role: Teaching Assistant (TA)
     time: 2023 - Present
     company: Pohang University of Science and Technology (POSTECH)
-    details: |+
+    details: |
       -- [SEMI209] Fundam.of Analog & Digital Circuits (2024)
-      
       -- [SEMI204] Intro. to Semiconductor Eng. Lab (2024)
-      
       -- [EECE273] Digital system design (2023)
 
 publications:
