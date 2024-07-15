@@ -55,15 +55,18 @@ experiences:
     company: Pohang University of Science and Technology (POSTECH)
     details: |+
       -- [SEMI209] Fundam.of Analog & Digital Circuits (2024)
+      
       -- [SEMI204] Intro. to Semiconductor Eng. Lab (2024)
+      
       -- [EECE273] Digital system design (2023)
 
 publications:
   title: Publications
   papers:
-    - title: "TA3D: Timing-Aware 3D IC Partitioning and Placement by Optimizing the Critical Path", (MLCAD, 2024)
+    - title: "TA3D: Timing-Aware 3D IC Partitioning and Placement by Optimizing the Critical Path, (MLCAD, 2024)"
       authors: "<strong>D. Kim</strong>, M. Kim, J. Hur, J. Lee, J.Cho, and S. Kang"
-    - title: "Advanced Parasitic Capacitance Extraction using Active Learning", (ISOCC, 2023)
+      
+    - title: "Advanced Parasitic Capacitance Extraction using Active Learning, (ISOCC, 2023)"
       authors: "<strong>D. Kim</strong>, J. Lee, and S. Kang"
 
 projects:
