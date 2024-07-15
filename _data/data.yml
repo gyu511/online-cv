@@ -1,34 +1,27 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
-
     # Profile information
     name: DongGyu Kim
     tagline: Master candidate of CSDL, POSTECH in Korea
     avatar: donggyu_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
     # Sidebar links
     email: gyu511@postech.ac.kr
     phone: 010 9368 0405
     website: csdl.postech.ac.kr #do not add http://
     github: gyu511
     
-
     languages:
       - idiom: Korean
         level: Native
-
       - idiom: English
         level: Elementary
-
     interests:
       - item: AI-EDA
         link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -45,20 +38,17 @@ education:
       university: Kyungpook National University (KNU), Daegu, Republic of Korea
       time: 2023.02
       details: |
-
 experiences:
     - role: Internship
       time: 2024.06 - 2024.07
       company: hearDL
       details: |+
                 -- Development of Android Beamforming Application
-
     - role: Undergraduate Student Researcher
       time: 2022.01 - 2023.02
       company: Kyungpook National University (KNU)
       details: |+
                 -- Mobile SoC & Microprocessor Lab, Prof. Joonho Kong
-
     - role: Teaching Assistant (TA)
       time: 2023 - Present
       company: Pohang University of Science and Technology (POSTECH)
@@ -68,27 +58,23 @@ experiences:
                 -- [SEMI204] Intro. to Semiconductor Eng. Lab (2024)
                 
                 -- [EECE273] Digital system design (2023)
-
 publications:
     title: Publications
-    
     #intro: |
     papers:
         - title: TA3D: Timing-Aware 3D IC Partitioning and Placement by Optimizing the Critical Path (MLCAD, 2024)
           authors: "   <strong>D. Kim</strong>, M. Kim, J. Hur, J. Lee, J.Cho, and S. Kang"
           # conference: "   MLCAD, 2024"
-   
+
         - title: Advanced Parasitic Capacitance Extraction using Active Learning (ISOCC, 2023)
           authors: "   <strong>D. Kim</strong>, J. Lee, and S. Kang"
           # conference: "   ISOCC, 2023"
-
 projects:
     title: Award
    
     assignments:
       - title: Best Poster Award in ISOCC
         tagline: "2023.10"
-
 skills:
     title: Skills &amp; Proficiency
     toolset:
@@ -103,10 +89,8 @@ skills:
         
       - name: EDA Tool Script
         level: 70%   
-
 # skills:
 #     title: Skills
-
 #     papers:
 #         - title: Programming Language
 #           conference: ― C/C++, Python, Tcl, Verilog
@@ -117,6 +101,5 @@ skills:
 #         - title:
 #           authors: <strong>SYNOPSYS</strong>
 #           conference: ― Design Compiler, IC Compiler II, StarRC, PrimeTime, Hspice
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
