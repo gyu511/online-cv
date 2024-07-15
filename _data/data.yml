@@ -66,10 +66,12 @@ publications:
   title: Publications
   papers:
     - title: TA3D: Timing-Aware 3D IC Partitioning and Placement by Optimizing the Critical Path (MLCAD, 2024)
-      authors: "<strong>D. Kim</strong>, M. Kim, J. Hur, J. Lee, J.Cho, and S. Kang"
+      authors: |
+        <strong>D. Kim</strong>, M. Kim, J. Hur, J. Lee, J.Cho, and S. Kang
 
     - title: Advanced Parasitic Capacitance Extraction using Active Learning (ISOCC, 2023)
-      authors: "<strong>D. Kim</strong>, J. Lee, and S. Kang"
+      authors: |
+        <strong>D. Kim</strong>, J. Lee, and S. Kang
 
 projects:
   title: Award
