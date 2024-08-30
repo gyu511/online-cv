@@ -61,6 +61,9 @@ experiences:
 publications:
   title: Publications
   papers:
+    - title: "ParaFormer: A Hybrid Graph Neural Network and Transformer Approach for Pre-Routing Parasitic RC Prediction, (ASP-DAC, 2025)"
+      authors: "J. Yoon, J. Lee, <strong>D. Kim</strong>, J. Hur, and S. Kang"
+  
     - title: "TA3D: Timing-Aware 3D IC Partitioning and Placement by Optimizing the Critical Path, (MLCAD, 2024)"
       authors: "<strong>D. Kim</strong>, M. Kim, J. Hur, J. Lee, J.Cho, and S. Kang"
       
